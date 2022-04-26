@@ -1,12 +1,3 @@
-""" 
-    Universidad Interamericana de Panamá
-        Automata y Lenguajes Formales
-            Yorlenis Arroyo 
-              8-986-1893
-     Prof:ING. Master Salomón Londoño
-             Examen final
-"""
-
 
 import os
 
